@@ -2,5 +2,6 @@ fastapi
 uvicorn
 joblib
 scikit-learn
-pandas
+xgboost
 numpy
+pandas
